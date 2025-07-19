@@ -1,0 +1,11 @@
+{
+  "capture_area": {
+    "x": 100,
+    "y": 100,
+    "width": 800,
+    "height": 1000
+  },
+  "page_turn_delay": 2.0,
+  "output_format": "png",
+  "max_pages": 500
+}
